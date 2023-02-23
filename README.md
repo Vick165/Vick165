@@ -6,3 +6,4 @@
 - Now built and created 2 projects one on Web Scrapping and another on Exploratory Data Analysis and - 
  currently working on Machine Learning project.
 - I am open to job opportunities for Data Scientist and Data Analyst roles.
+Resume: https://docs.google.com/document/d/1d0DRXTYUCkn0TlarFAxTwh5cOlZHIW72/edit?usp=sharing&ouid=118044966526997875304&rtpof=true&sd=true
